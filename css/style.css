@@ -167,13 +167,13 @@
   border-bottom: 1px solid rgba(133, 212, 192, 0.5);
   margin: 30px 0;
 }
-#wrap #main #section1 .container .content div h2 {
+#wrap #main #section1 .container .content div h3 {
   color: #fff;
   font-size: 18px;
   font-weight: 600;
   line-height: 150%;
 }
-#wrap #main #section1 .container .content div h3 {
+#wrap #main #section1 .container .content div h2 {
   color: #85d4c0;
   font-size: 24px;
   font-weight: 700;
